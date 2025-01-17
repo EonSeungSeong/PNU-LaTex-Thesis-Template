@@ -1,0 +1,17 @@
+# TeX Output files
+*.aux
+*.fdb_latexmk
+*.synctex.gz
+*.lof
+*.toc
+*.log
+*.out
+*.fls
+*.bbl
+*.bcf
+*.lot
+*.run.xml
+
+# personal data
+my*
+/figure
